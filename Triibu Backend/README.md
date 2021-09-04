@@ -22,19 +22,10 @@ project_root/
 │
 ├── assets/               # Project assets
 ├── database/             # Tables, dimensions and views DDL scripts
-├── ds_notebooks/         # Python and R files with the Data Science Workflow
 ```
 ## Data science workflow
 
 ![image info](./assets/DS_Workflow.png)
-
-### Notebooks index
-
-1. Data cleaning and wrangling
-2. Exploratory analysis
-3. Carlos' model
-4. Jose's model
-5. Laura's model
 
 ## Database
 
